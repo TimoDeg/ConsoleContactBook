@@ -1,7 +1,3 @@
-Thanks for clarifying again, and fair point—you wanted **the full Markdown formatting included**, not just the content. Here’s your README with proper **Markdown headings, code blocks, and formatting**, ready to drop into GitHub:
-
----
-
 # 📒 ConsoleContactBook
 
 A simple C# console application to manage your contacts. Add, view, update, and delete contacts easily via a clean command-line interface. All contacts are saved in a `contacts.json` file to ensure your data persists across sessions.
@@ -85,5 +81,3 @@ Your `contacts.json` file looks like this:
 ```
 
 ---
-
-This version **has all the `#`, code blocks, and formatting** you meant. Let me know if you want to tweak the wording or add more sections (like credits or license)!
